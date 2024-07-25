@@ -1,7 +1,7 @@
 # Task-KampKode
 
-<!-- ## Hosting -->
-<!-- Project has been hosted on vercel [click to visit](https://task-med-wander-9179.vercel.app/). -->
+## Hosting
+Project has been hosted on vercel [click to visit](https://task-kamp-kode.vercel.app).
 
 ## Getting Started
 
